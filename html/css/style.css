@@ -1,0 +1,51 @@
+/*CSS index */
+.Antête {
+    text-align: center;
+}
+body#Accueil
+{
+    background-color: dimgrey;
+}
+a
+{
+    color: ghostwhite;
+    font-size: 20px;
+}
+
+/*CSS Domotique */
+.Antête {
+    text-align: center;
+}
+body#Domotique
+{
+    background-color: dimgrey;
+}
+
+
+/*CSS Inter&Sec */
+.Antête {
+    text-align: center;
+}
+body#Securite
+{
+    background-color: dimgrey;
+}
+
+/*CSS Electricité */
+.Antête {
+    text-align: center;
+}
+body#Electricite
+{
+    background-color: dimgrey;
+}
+
+
+/*CSS Contact */
+.Antête {
+    text-align: center;
+}
+body#Contact
+{
+    background-color: dimgrey;
+}
