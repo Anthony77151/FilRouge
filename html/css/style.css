@@ -1,16 +1,40 @@
 /*CSS index */
-.Entête {
-    text-align: center;
-    background-color: black;
-}
-body#Accueil
+*
 {
-    background-color: dimgrey;
+    margin: 0;
+    padding: 0;
+}
+.Entête 
+{
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+    padding: 55px;
+    border-top: 3px solid ghostwhite;
+    border-bottom: 3px solid ghostwhite; 
+    position: fixed;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+              
+}
+.Numero
+{
+    text-decoration: none;
+    margin-right: 0px;
+    color: ghostwhite;
+    font-size: 20px;   
+    
 }
 a
 {
     color: ghostwhite;
     font-size: 20px;
+    
+}
+body#Accueil
+{
+    background-color: dimgrey;   
+    
 }
 
 /*CSS Domotique */
