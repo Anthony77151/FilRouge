@@ -18,17 +18,7 @@
     position: fixed;
     padding-left: 30%;
     padding-right: 10%;  
-    align-items: baseline;
-    display: grid;
-    grid-template-columns: 20% 80%;
-}
-nav
-{
-    grid-column: 1;
-}
-section
-{
-    grid-column: 2;
+    
 }
 .logoace
 {
