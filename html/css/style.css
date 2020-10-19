@@ -6,30 +6,47 @@
 }
 .Entête 
 {
-    text-align: center;
+    display: flex;
+    justify-content: space-between;  
     background-color: rgb(22, 22, 22);
-    padding: 55px;
+    padding: 60px;
     border-top: 3px solid ghostwhite;
-    border-bottom: 3px solid ghostwhite; 
-    position: fixed;
+    border-bottom: 3px solid ghostwhite;
     margin: 0 auto;
     right: 0;
     left: 0;
-              
+    position: fixed;
+    padding-left: 30%;
+    padding-right: 10%;  
+    align-items: baseline;
+}
+.logoace
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.logo
+{
+    color: ghostwhite;    
+    font-family: "Ma fonte";
+    font-size: 50px;
+    
+    
+}
+@font-face {
+    font-family: "Ma fonte";
+    src: url('font/AlexBrush-Regular.ttf');
 }
 .Numero
 {
-    text-decoration: none;
-    margin-right: 0px;
     color: ghostwhite;
-    font-size: 20px;   
-    
+    font-size: 20px;      
 }
-a
+.Entête a
 {
     color: ghostwhite;
-    font-size: 20px;
-    
+    font-size: 20px;    
 }
 body#Accueil
 {
@@ -43,7 +60,25 @@ body#Domotique
 {
     background-color: dimgrey;
 }
-
+.img1
+{
+    
+    padding-top: 180px;
+    padding-left: 5%;
+    float: left;   
+}
+.titreimg1
+{
+    padding-top: 190px;
+    padding-left: 35%;
+    color: ghostwhite;
+}
+.texteimg1
+{
+    color: black;
+    padding-left: 35%;
+    font-size: 20px;
+}
 
 /*CSS Inter&Sec */
 
