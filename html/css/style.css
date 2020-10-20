@@ -75,10 +75,12 @@ body#Domotique
 }
 .img1
 {
+    border: 2px solid ghostwhite;
+    padding: 0;
+    float: left; 
+    margin-top: 180px;
+    margin-left: 5%;
     
-    padding-top: 180px;
-    padding-left: 5%;
-    float: left;   
 }
 .titreimg1
 {
@@ -97,6 +99,32 @@ body#Domotique
     padding-left: 35%;
     font-size: 20px;
 }
+.séparation
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.img2
+{
+    border: 2px solid ghostwhite;
+    margin-top: 50px;
+    margin-right: 5%;
+    float: right;   
+}
+.titreimg2
+{
+    padding-top: 60px;
+    padding-left: 15%;
+    color: ghostwhite;
+    font-family: "Font global";
+}
+.texteimg2
+{
+    color: black;
+    padding-left: 15%;
+    font-size: 20px;
+}
 
 /*CSS Inter&Sec */
 
@@ -106,10 +134,11 @@ body#Securite
 }
 .img3
 {
-    
-    padding-top: 180px;
-    padding-left: 5%;
-    float: left;   
+    border: 2px solid ghostwhite;
+    padding: 0;
+    float: left; 
+    margin-top: 180px;
+    margin-left: 5%;   
 }
 .titreimg3
 {
@@ -124,6 +153,27 @@ body#Securite
     padding-left: 35%;
     font-size: 20px;
 }
+.img4
+{
+    
+    border: 2px solid ghostwhite;
+    margin-top: 50px;
+    margin-right: 5%;
+    float: right;   
+}
+.titreimg4
+{
+    padding-top: 60px;
+    padding-left: 15%;
+    color: ghostwhite;
+    font-family: "Font global";
+}
+.texteimg4
+{
+    color: black;
+    padding-left: 15%;
+    font-size: 20px;
+}
 /*CSS Electricité */
 
 body#Electricite
@@ -132,10 +182,11 @@ body#Electricite
 }
 .img5
 {
-    
-    padding-top: 180px;
-    padding-left: 5%;
-    float: left;   
+    border: 2px solid ghostwhite;
+    padding: 0;
+    float: left; 
+    margin-top: 180px;
+    margin-left: 5%;   
 }
 .titreimg5
 {
@@ -150,7 +201,27 @@ body#Electricite
     padding-left: 35%;
     font-size: 20px;
 }
-
+.img6
+{
+    
+    border: 2px solid ghostwhite;
+    margin-top: 50px;
+    margin-right: 5%;
+    float: right;   
+}
+.titreimg6
+{
+    padding-top: 60px;
+    padding-left: 15%;
+    color: ghostwhite;
+    font-family: "Font global";
+}
+.texteimg6
+{
+    color: black;
+    padding-left: 15%;
+    font-size: 20px;
+}
 /*CSS Contact */
 
 body#Contact
