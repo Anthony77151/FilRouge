@@ -17,13 +17,21 @@
     left: 0;
     position: fixed;
     padding-left: 30%;
-    padding-right: 10%;  
-    
+    padding-right: 10%;    
+}
+a
+{
+    font-family: "Font global";
+}
+p
+{
+    font-family: "Font global";
 }
 .logoace
 {
     display: flex;
     justify-content: flex-start;
+    
 }
 
 .logo
@@ -31,8 +39,10 @@
     color: ghostwhite;    
     font-family: "Ma fonte";
     font-size: 50px;
-    
-    
+    margin: 40px 0 0 170px;
+    position: fixed;
+    z-index: 2;
+    padding: 0;
 }
 @font-face {
     font-family: "Ma fonte";
@@ -46,13 +56,16 @@
 .Entête a
 {
     color: ghostwhite;
-    font-size: 20px;    
+    font-size: 20px; 
+       
 }
+
 body#Accueil
 {
-    background-color: dimgrey;   
-    
+    background-color: dimgrey; 
+       
 }
+
 
 /*CSS Domotique */
 
@@ -72,6 +85,11 @@ body#Domotique
     padding-top: 190px;
     padding-left: 35%;
     color: ghostwhite;
+    font-family: "Font global";
+}
+@font-face {
+    font-family: "Font global";
+    src: url('font/Alice-Regular.ttf');
 }
 .texteimg1
 {
