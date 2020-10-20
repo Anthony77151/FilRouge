@@ -104,14 +104,52 @@ body#Securite
 {
     background-color: dimgrey;
 }
-
+.img3
+{
+    
+    padding-top: 180px;
+    padding-left: 5%;
+    float: left;   
+}
+.titreimg3
+{
+    padding-top: 190px;
+    padding-left: 35%;
+    color: ghostwhite;
+    font-family: "Font global";
+}
+.texteimg3
+{
+    color: black;
+    padding-left: 35%;
+    font-size: 20px;
+}
 /*CSS Electricité */
 
 body#Electricite
 {
     background-color: dimgrey;
 }
-
+.img5
+{
+    
+    padding-top: 180px;
+    padding-left: 5%;
+    float: left;   
+}
+.titreimg5
+{
+    padding-top: 190px;
+    padding-left: 35%;
+    color: ghostwhite;
+    font-family: "Font global";
+}
+.texteimg5
+{
+    color: black;
+    padding-left: 35%;
+    font-size: 20px;
+}
 
 /*CSS Contact */
 
