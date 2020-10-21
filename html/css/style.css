@@ -81,11 +81,12 @@ body#Domotique
     margin-top: 9.5%;
     margin-left: 5%;
     
+    
 }
 .titreimg1
 {
     padding-top: 10%;
-    padding-left: 35%;
+    padding-left: 36%;
     color: ghostwhite;
     font-family: "Font global";
 }
@@ -96,7 +97,7 @@ body#Domotique
 .texteimg1
 {
     color: black;
-    padding-left: 35%;
+    padding-left: 36%;
     font-size: 20px;
 }
 .séparation
