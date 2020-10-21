@@ -39,7 +39,7 @@ p
     color: ghostwhite;    
     font-family: "Ma fonte";
     font-size: 50px;
-    margin: 40px 0 0 170px;
+    margin: 2.3% 0 0 10%;
     position: fixed;
     z-index: 2;
     padding: 0;
@@ -269,6 +269,7 @@ input, textarea {
    
 textarea {
     height: 100px;
+    margin-left: 15px;
 }
    
 select {
@@ -286,4 +287,5 @@ input[type=submit] {
 .Formulaire
 {
     margin-left: 5%;
+    font-size: 20px;
 }
