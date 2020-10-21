@@ -46,7 +46,7 @@ p
 }
 @font-face {
     font-family: "Ma fonte";
-    src: url('font/AlexBrush-Regular.ttf');
+    src: url('../font/AlexBrush-Regular.ttf');
 }
 .Numero
 {
@@ -91,7 +91,7 @@ body#Domotique
 }
 @font-face {
     font-family: "Font global";
-    src: url('font/Alice-Regular.ttf');
+    src: url('../font/Alice-Regular.ttf');
 }
 .texteimg1
 {
