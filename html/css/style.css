@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-between;  
     background-color: rgb(22, 22, 22);
-    padding: 60px;
+    padding: 3.1%;
     border-top: 3px solid ghostwhite;
     border-bottom: 3px solid ghostwhite;
     margin: 0 auto;
@@ -78,13 +78,13 @@ body#Domotique
     border: 2px solid ghostwhite;
     
     float: left; 
-    margin-top: 180px;
+    margin-top: 9.5%;
     margin-left: 5%;
     
 }
 .titreimg1
 {
-    padding-top: 190px;
+    padding-top: 10%;
     padding-left: 35%;
     color: ghostwhite;
     font-family: "Font global";
@@ -108,13 +108,13 @@ body#Domotique
 .img2
 {
     border: 2px solid ghostwhite;
-    margin-top: 50px;
+    margin-top: 2.6%;
     margin-right: 5%;
     float: right;   
 }
 .titreimg2
 {
-    padding-top: 60px;
+    padding-top: 3.1%;
     padding-left: 15%;
     color: ghostwhite;
     font-family: "Font global";
@@ -137,12 +137,12 @@ body#Securite
     border: 2px solid ghostwhite;
     padding: 0;
     float: left; 
-    margin-top: 180px;
+    margin-top: 9.5%;
     margin-left: 5%;   
 }
 .titreimg3
 {
-    padding-top: 190px;
+    padding-top: 10%;
     padding-left: 35%;
     color: ghostwhite;
     font-family: "Font global";
@@ -157,13 +157,13 @@ body#Securite
 {
     
     border: 2px solid ghostwhite;
-    margin-top: 50px;
+    margin-top: 2.6%;
     margin-right: 5%;
     float: right;   
 }
 .titreimg4
 {
-    padding-top: 60px;
+    padding-top: 3.1%;
     padding-left: 15%;
     color: ghostwhite;
     font-family: "Font global";
@@ -185,12 +185,12 @@ body#Electricite
     border: 2px solid ghostwhite;
     padding: 0;
     float: left; 
-    margin-top: 180px;
-    margin-left: 5%;   
+    margin-top: 9.5%;
+    margin-left: 5%;  
 }
 .titreimg5
 {
-    padding-top: 190px;
+    padding-top: 10%;
     padding-left: 35%;
     color: ghostwhite;
     font-family: "Font global";
@@ -205,13 +205,13 @@ body#Electricite
 {
     
     border: 2px solid ghostwhite;
-    margin-top: 50px;
+    margin-top: 2.6%;
     margin-right: 5%;
     float: right;   
 }
 .titreimg6
 {
-    padding-top: 60px;
+    padding-top: 3.1%;
     padding-left: 15%;
     color: ghostwhite;
     font-family: "Font global";
