@@ -26,6 +26,7 @@ a
 p
 {
     font-family: "Font global";
+    color: ghostwhite;
 }
 .logoace
 {
@@ -60,19 +61,19 @@ p
        
 }
 
-body#Accueil
+body
 {
-    background-color: dimgrey; 
-       
+     
+    background-image: url(https://zupimages.net/up/20/44/kn5q.png);   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 
 /*CSS Domotique */
 
-body#Domotique
-{
-    background-color: dimgrey;
-}
+
 .img1
 {
     border: 2px solid ghostwhite;
@@ -96,7 +97,7 @@ body#Domotique
 }
 .texteimg1
 {
-    color: black;
+    color: ghostwhite;
     padding-left: 36%;
     font-size: 20px;
 }
@@ -122,17 +123,14 @@ body#Domotique
 }
 .texteimg2
 {
-    color: black;
+    color: ghostwhite;
     padding-left: 15%;
     font-size: 20px;
 }
 
 /*CSS Inter&Sec */
 
-body#Securite
-{
-    background-color: dimgrey;
-}
+
 .img3
 {
     border: 2px solid ghostwhite;
@@ -150,7 +148,7 @@ body#Securite
 }
 .texteimg3
 {
-    color: black;
+    color: ghostwhite;
     padding-left: 35%;
     font-size: 20px;
 }
@@ -171,16 +169,14 @@ body#Securite
 }
 .texteimg4
 {
-    color: black;
+    color: ghostwhite;
     padding-left: 15%;
     font-size: 20px;
 }
 /*CSS Electricité */
 
-body#Electricite
-{
-    background-color: dimgrey;
-}
+
+
 .img5
 {
     border: 2px solid ghostwhite;
@@ -198,7 +194,7 @@ body#Electricite
 }
 .texteimg5
 {
-    color: black;
+    color: ghostwhite;
     padding-left: 35%;
     font-size: 20px;
 }
@@ -219,16 +215,13 @@ body#Electricite
 }
 .texteimg6
 {
-    color: black;
+    color: ghostwhite;
     padding-left: 15%;
     font-size: 20px;
 }
 /*CSS Contact */
 
-body#Contact
-{
-    background-color: dimgrey;
-}
+
 p {
     margin-top: 0px;
 }
@@ -243,7 +236,7 @@ legend {
     padding: 0px 3px;
     font-weight: bold;
     font-variant: small-caps;
-    
+    color: ghostwhite;
 }
    
 label {
@@ -251,7 +244,7 @@ label {
     display: inline-block;
     vertical-align: top;
     margin: 6px;
-    
+    color: ghostwhite;
 }
    
 em {
@@ -289,4 +282,7 @@ input[type=submit] {
 {
     margin-left: 5%;
     font-size: 20px;
+}
+h2{
+    color: ghostwhite;
 }
